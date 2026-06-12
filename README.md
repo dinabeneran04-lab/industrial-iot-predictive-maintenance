@@ -1,6 +1,6 @@
 # 🚜 Heavy Machinery Predictive Maintenance & Industrial IoT Analytics
 
-[![Tableau](https://shields.io)](https://tableau.com)
+📊 **[View Live Interactive Tableau Dashboard](https://tableau.com)**
 
 This repository applies Advanced Analytics and Machine Learning to predict heavy equipment failures before they occur. By converting raw sensor telematics data into actionable business strategies, this project optimizes fleet uptime and transforms traditional calendar-based servicing into real-time condition-based maintenance.
 
