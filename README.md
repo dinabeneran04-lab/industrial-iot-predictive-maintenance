@@ -1,6 +1,6 @@
 # 🚜 Heavy Machinery Predictive Maintenance & Industrial IoT Analytics
 
-[![Tableau](https://shields.io)](https://public.tableau.com/app/profile/dina.rahma.wita/vizzes)
+[![Tableau](https://shields.io)](https://public.tableau.com/app/profile/dina.rahma.wita/viz/IndustrialIoT-HeavyEquipmentPredictiveMaintenanceDashboard/Dashboard1)
 
 This repository applies Advanced Analytics and Machine Learning to predict heavy equipment failures before they occur. By converting raw sensor telematics data into actionable business strategies, this project optimizes fleet uptime and transforms traditional calendar-based servicing into real-time condition-based maintenance.
 
@@ -9,7 +9,7 @@ Unscheduled downtime in heavy machinery (such as mining trucks, excavators, and 
 
 ## 🔗 Live Interactive Dashboard
 You can explore and interact with the full telemetry monitoring dashboard built for field engineers here: 
-👉 **[Tableau Public Dashboard Link](https://public.tableau.com/app/profile/dina.rahma.wita/vizzes)**
+👉 **[Tableau Public Dashboard Link](https://public.tableau.com/app/profile/dina.rahma.wita/viz/IndustrialIoT-HeavyEquipmentPredictiveMaintenanceDashboard/Dashboard1)**
 
 ## 🛠️ Data Cleansing & Feature Engineering
 *   **Data Quality Alignment**: Handled structural discrepancies by casting misclassified string formats (`str`) of critical telematics variables (Torque, Air/Process Temperature) into high-precision decimal floats (`float64`) using Python Regex to make the data digestible for machine learning algorithms.
